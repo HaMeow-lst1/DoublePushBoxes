@@ -1,0 +1,3 @@
+go get -u github.com/hajimehoshi/ebiten/v2
+go get github.com/nfnt/resize
+go get golang.org/x/image/font/sfnt@v0.11.0
